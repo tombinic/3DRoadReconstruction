@@ -1,5 +1,5 @@
 # Visual Analysis of Moving Vehicles
-
+🧑‍🤝‍🧑Thanks to [Andrea Bertogalli](https://github.com/andberto) and [Niccolò Balestrieri](https://github.com/NiccoloBalestrieri)
 ## Project Description
 
 This project focuses on the visual analysis of moving vehicles, specifically on model-based car localization and road reconstruction using a single calibrated static camera. The objectives include identifying the visible wheels of a moving car, extracting the rims due to their higher contrast, and using this information to follow the road profile and collect 3D points on the road surface for interpolation.
